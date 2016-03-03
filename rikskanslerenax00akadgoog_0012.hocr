@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./rikskanslerenax00akadgoog_0012.png"; bbox 0 0 3284 5348; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 817 4589 1034 4640">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 817 4589 1034 4640">
+     <span class='ocr_line' id='line_1_1' title="bbox 817 4589 1034 4640; baseline 0.009 -1"><span class='ocrx_word' id='word_1_1' title='bbox 817 4589 1034 4640; x_wconf 75' lang='lat' dir='ltr'>STOCKHOLM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 598 4669 1255 4714">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 598 4669 1255 4714">
+     <span class='ocr_line' id='line_1_2' title="bbox 598 4669 1255 4714; baseline -0.002 -1"><span class='ocrx_word' id='word_1_2' title='bbox 598 4681 684 4714; x_wconf 72' lang='lat' dir='ltr'><strong>mut..</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 699 4681 902 4713; x_wconf 69' lang='lat' dir='ltr'>nomvcxssmm.</span> <span class='ocrx_word' id='word_1_4' title='bbox 930 4683 951 4711; x_wconf 72' lang='grc' dir='ltr'>Ρ.</span> <span class='ocrx_word' id='word_1_5' title='bbox 966 4683 988 4713; x_wconf 81' lang='grc' dir='ltr'>Α.</span> <span class='ocrx_word' id='word_1_6' title='bbox 1005 4681 1129 4713; x_wconf 64' lang='lat' dir='ltr'>sonsum·</span> <span class='ocrx_word' id='word_1_7' title='bbox 1144 4671 1162 4711; x_wconf 59' lang='grc' dir='ltr'>ἃ</span> <span class='ocrx_word' id='word_1_8' title='bbox 1177 4669 1255 4712; x_wconf 62' lang='lat' dir='ltr'>som</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 892 4738 959 4790">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 892 4738 959 4790">
+     <span class='ocr_line' id='line_1_3' title="bbox 892 4738 959 4790; baseline 0.015 -1"><span class='ocrx_word' id='word_1_9' title='bbox 892 4738 959 4790; x_wconf 76' lang='lat'>1900</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1646 5348">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1646 5348">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1646 5348; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1646 5348; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
